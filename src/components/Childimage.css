@@ -1,0 +1,479 @@
+.childrectanglebutton-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.rectangle-icon5 {
+  position: absolute;
+  height: calc(100% - 18px);
+  top: 9px;
+  bottom: 9px;
+  left: 39px;
+  max-height: 100%;
+  width: 168px;
+  object-fit: cover;
+  z-index: 3;
+}
+.childvectorarrow {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.childvectorarrow-wrapper {
+  width: 263px;
+  height: 263px;
+  position: relative;
+}
+.childvectorseparator-icon {
+  width: 256.6px;
+  height: 65.1px;
+  position: relative;
+  z-index: 2;
+}
+.second-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.third-icon {
+  position: absolute;
+  top: 18px;
+  left: 48px;
+  width: 168px;
+  height: 245px;
+  object-fit: cover;
+  z-index: 3;
+}
+.first-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.header-icons-container {
+  align-self: stretch;
+  height: 263px;
+  position: relative;
+}
+.fourth-icon {
+  width: 246.1px;
+  height: 64.7px;
+  position: relative;
+  z-index: 2;
+}
+.childtext {
+  width: 263px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.childtext-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.childvectorseparator-parent,
+.frame-parent2,
+.frame-wrapper4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.childvectorseparator-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+}
+.frame-parent2,
+.frame-wrapper4 {
+  box-sizing: border-box;
+}
+.frame-wrapper4 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-xs);
+}
+.frame-parent2 {
+  width: 400px;
+  flex-direction: column;
+  padding: 0 var(--padding-4xs) 0 0;
+  gap: var(--gap-mid);
+}
+.first-frame-icon {
+  width: 75.1px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -0.2px;
+  left: 86.4px;
+  height: 58px;
+  z-index: 2;
+}
+.fourth-frame-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.fifth-frame-icon {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 168px;
+  height: 245px;
+  object-fit: cover;
+  z-index: 3;
+}
+.third-frame {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.second-frame {
+  align-self: stretch;
+  height: 263px;
+  position: relative;
+}
+.image-frame {
+  height: 339px;
+  width: 263px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  min-width: 263px;
+}
+.ninth-frame-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.tenth-frame-icon {
+  position: absolute;
+  top: 0;
+  left: 37px;
+  width: 168px;
+  height: 245px;
+  object-fit: cover;
+  z-index: 3;
+}
+.eighth-frame {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.seventh-frame {
+  width: 263px;
+  height: 263px;
+  position: relative;
+}
+.vector-icon20 {
+  align-self: stretch;
+  height: 66.3px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.sixth-frame {
+  width: 285px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  min-width: 285px;
+}
+.text-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.text-box-left {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 1px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.rectangle-icon6 {
+  width: 400px;
+  position: absolute;
+  margin: 0 !important;
+  right: -131px;
+  bottom: -322px;
+  height: 362px;
+  object-fit: cover;
+  z-index: 3;
+}
+.rectangle-icon7 {
+  height: 245px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 4;
+}
+.text-box-right {
+  position: absolute;
+  top: 19px;
+  left: 31.5px;
+  width: 168px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.horizontal-vector {
+  height: 264px;
+  flex: 1;
+  position: relative;
+}
+.horizontal-vector-wrapper {
+  width: 278px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) 0 0;
+  box-sizing: border-box;
+}
+.vector-icon21 {
+  height: 64.7px;
+  width: 277.8px;
+  position: relative;
+  z-index: 2;
+}
+.background-frame,
+.vector-frame {
+  display: flex;
+  justify-content: flex-start;
+}
+.vector-frame {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-2xs) 0 0;
+}
+.background-frame {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-11xl);
+  min-width: 448px;
+  max-width: 100%;
+}
+.rectangle-icon8,
+.vector-icon22 {
+  position: absolute;
+  max-height: 100%;
+}
+.vector-icon22 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  z-index: 2;
+}
+.rectangle-icon8 {
+  height: calc(100% - 18px);
+  top: 9px;
+  bottom: 9px;
+  left: 47px;
+  width: 168px;
+  object-fit: cover;
+  z-index: 3;
+}
+.vector-parent3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-wrapper5,
+.vector-icon23 {
+  width: 263px;
+  height: 263px;
+  position: relative;
+}
+.vector-icon23 {
+  height: 63.8px;
+  width: 254.6px;
+  z-index: 2;
+}
+.vector-wrapper1 {
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.vector-icon24 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.rectangle-icon9 {
+  position: absolute;
+  top: 15px;
+  left: 48px;
+  width: 168px;
+  height: 245px;
+  object-fit: cover;
+  z-index: 3;
+}
+.vector-parent4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-wrapper7 {
+  height: 263px;
+  width: 263px;
+  position: relative;
+}
+.frame-wrapper6 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs);
+}
+.vector-icon25 {
+  height: 64.2px;
+  width: 267.8px;
+  position: relative;
+  z-index: 2;
+}
+.vector-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.childimage,
+.frame-parent3 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  height: 734px;
+  width: 385px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-lg);
+}
+.childimage {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  row-gap: 20px;
+}
+@media screen and (max-width: 800px) {
+  .image-frame,
+  .sixth-frame {
+    flex: 1;
+  }
+  .text-container {
+    flex-wrap: wrap;
+  }
+  .background-frame {
+    min-width: 100%;
+  }
+}

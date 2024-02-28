@@ -1,0 +1,193 @@
+.rectangle-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+  z-index: 0;
+}
+.rectangle-icon1,
+.rectangle-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  object-fit: cover;
+}
+.rectangle-icon1 {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: -2px;
+  max-height: 100%;
+  z-index: 1;
+}
+.rectangle-icon2 {
+  width: 1044px;
+  top: 335px;
+  right: 109px;
+  height: 308px;
+  z-index: 3;
+}
+.image-wrapper {
+  width: 1648px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 43px 0 var(--padding-xl);
+  box-sizing: border-box;
+  min-height: 1059px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.vector-icon {
+  width: 1394.7px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 2623.1px;
+  left: 260.5px;
+  height: 101.7px;
+  z-index: 3;
+}
+.button-group-icon {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  transform: scale(1.1);
+}
+.wrapper-button-group {
+  position: absolute;
+  top: -0.1px;
+  left: 13.5px;
+  width: 1632.1px;
+  height: 801.7px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.all-this-will,
+.and-a-percentage,
+.community-and-our,
+.get-ready-for,
+.here-at-solana,
+.not-only-will,
+.of-2024-solana,
+.of-our-artwork,
+.promises-no-smoke,
+.royalties,
+.streaming-platform-they,
+.time-we-will,
+.turn-the-nft,
+.week,
+.welcome-allwelcome-to,
+.whats-more-our {
+  margin: 0;
+}
+.welcome-allwelcome-to-container {
+  position: absolute;
+  top: 53px;
+  left: 81px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1511px;
+  height: 697px;
+  z-index: 3;
+}
+.sub-header-frame {
+  align-self: stretch;
+  height: 807px;
+  position: relative;
+}
+.childrectanglecontainer-icon {
+  width: 409px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 2;
+}
+.childrectanglecontainer-wrapper {
+  width: 463px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.childvectorx,
+.home-page-1-1,
+.welcome-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.childvectorx {
+  width: 1473px;
+  gap: 64px;
+  max-width: 100%;
+}
+.home-page-1-1,
+.welcome-frame {
+  box-sizing: border-box;
+}
+.welcome-frame {
+  width: 1699px;
+  padding: 0 var(--padding-xl);
+  gap: 162px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 36px;
+  color: #fff;
+  font-family: var(--font-inter);
+}
+.home-page-1-1 {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding: 1px 0 1197px;
+  gap: 29px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .image-wrapper {
+    padding-right: 21px;
+    box-sizing: border-box;
+  }
+  .welcome-frame {
+    gap: 81px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .welcome-allwelcome-to-container {
+    font-size: 29px;
+  }
+  .childvectorx {
+    gap: 32px;
+  }
+  .welcome-frame {
+    gap: var(--gap-21xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .welcome-allwelcome-to-container {
+    font-size: 22px;
+  }
+  .childvectorx {
+    gap: var(--gap-base);
+  }
+  .welcome-frame {
+    gap: var(--gap-xl);
+  }
+}

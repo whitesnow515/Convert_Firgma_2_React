@@ -1,0 +1,100 @@
+.vector-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.vector-icon2 {
+  position: absolute;
+  top: 71.3px;
+  left: 69.5px;
+  width: 109.2px;
+  height: 26.9px;
+  z-index: 3;
+}
+.vector-icon3,
+.vector-icon4 {
+  position: absolute;
+  top: 69.2px;
+  left: 223.5px;
+  width: 89.3px;
+  height: 29.9px;
+  z-index: 3;
+}
+.vector-icon4 {
+  top: 70px;
+  left: 766.7px;
+  width: 119.2px;
+  height: 28.1px;
+}
+.vector-icon5,
+.vector-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.vector-icon6 {
+  top: 21px;
+  left: 18.7px;
+  width: 228.6px;
+  height: 21.4px;
+  z-index: 4;
+}
+.vector-group,
+.vector-parent {
+  position: absolute;
+  top: 24px;
+  left: 1603px;
+  width: 265px;
+  height: 67px;
+}
+.vector-parent {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 99px;
+  z-index: 2;
+}
+.vector-icon7 {
+  position: absolute;
+  top: 69.2px;
+  left: 347.7px;
+  width: 142.8px;
+  height: 38.8px;
+  z-index: 3;
+}
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  top: 71.8px;
+  left: 537.6px;
+  width: 190.5px;
+  height: 36.7px;
+  z-index: 3;
+}
+.vector-icon9 {
+  top: 68.2px;
+  left: 927.1px;
+  width: 229.6px;
+  height: 39.3px;
+}
+.rectangle-icon3 {
+  position: absolute;
+  right: 84px;
+  bottom: -28px;
+  width: 201px;
+  height: 35px;
+  object-fit: cover;
+  z-index: 3;
+}
+.frame-parent {
+  align-self: stretch;
+  height: 109px;
+  position: relative;
+}

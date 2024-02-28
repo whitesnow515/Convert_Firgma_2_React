@@ -1,0 +1,233 @@
+.image-frame-icon {
+  height: 107px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.image-frame-wrapper {
+  width: 460px;
+  height: 121px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.vector-icon11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 1px;
+  right: 0;
+  bottom: -0.2px;
+  left: 0.2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.vector-icon12 {
+  position: absolute;
+  top: 0.3px;
+  left: 5.5px;
+  width: 1394.1px;
+  height: 93.9px;
+  z-index: 3;
+}
+.vector-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-wrapper {
+  width: 1399px;
+  height: 121px;
+  position: relative;
+  max-width: 100%;
+}
+.vector-icon13,
+.vector-icon14 {
+  position: absolute;
+  max-height: 100%;
+}
+.vector-icon13 {
+  height: 100%;
+  width: 100%;
+  top: -0.2px;
+  right: 0;
+  bottom: 0.2px;
+  left: 0.2px;
+  max-width: 100%;
+  overflow: hidden;
+  z-index: 2;
+}
+.vector-icon14 {
+  height: calc(100% - 22.3px);
+  top: 13.3px;
+  bottom: 9px;
+  left: 4px;
+  width: 1394.7px;
+  z-index: 3;
+}
+.vector-parent1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-wrapper2 {
+  height: 122px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.vector-icon15 {
+  width: 1398.8px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+  z-index: 2;
+}
+.frame-div,
+.frame-parent1 {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  height: 280px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-19xl);
+}
+.frame-div {
+  width: 1457px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.vector-icon16 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0.1px;
+  right: 0.5px;
+  bottom: 0.3px;
+  left: -0.5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.vector-icon17 {
+  position: absolute;
+  top: 16.3px;
+  left: 94.5px;
+  width: 1393.6px;
+  height: 99.7px;
+  z-index: 3;
+}
+.parentframevectors {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.parentframevectors-wrapper {
+  align-self: stretch;
+  height: 137px;
+  position: relative;
+}
+.frame-container {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+}
+.vector-icon18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 1.3px;
+  right: 0.2px;
+  bottom: 0.2px;
+  left: 0.2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.vector-icon19 {
+  position: absolute;
+  top: 0.3px;
+  left: 132.8px;
+  width: 1394.4px;
+  height: 137.7px;
+  z-index: 3;
+}
+.vector-parent2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  height: 144px;
+  position: relative;
+}
+.frame-group {
+  align-self: stretch;
+  height: 949px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+@media screen and (max-width: 800px) {
+  .frame-parent1 {
+    gap: var(--gap-lgi);
+  }
+  .frame-group {
+    gap: var(--gap-xl);
+  }
+}
